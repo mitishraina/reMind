@@ -7,13 +7,13 @@ reMind is a full-stack web application built using the MERN stack (MongoDB, Expr
 - **Password Management**: Store and retrieve passwords for various websites.
 - **User-Friendly Interface**: Clean and intuitive UI built with React.js.
 - **Secure Data Storage**: Passwords are securely stored in a MongoDB database.
-- **Dynamic Search**: Easily search through stored passwords.
 - **Interactive Icons**: Hover-triggered icons for better user experience.
 
 ## Tech Stack
 - **Frontend**: React.js, Tailwind CSS
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
+- **API Testing**: Postman API
 
 ## Installation
 
