@@ -19,7 +19,7 @@ reMind is a full-stack web application built using the MERN stack (MongoDB, Expr
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mitishraina/reMind.git
+   git clone https://github.com/your-folder/reMind.git
    ```
 2. Navigate to the project directory:
    ```bash
