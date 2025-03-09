@@ -53,6 +53,8 @@ reMind is a full-stack web application built using the MERN stack (MongoDB, Expr
      ```
 6. Open your browser and navigate to `http://localhost:3000` to access the application.
 
+![image](https://github.com/user-attachments/assets/19948138-7836-464f-8c9d-c687248ee144)
+
 
 ## Future Enhancements
 - Implement user authentication for added security.
